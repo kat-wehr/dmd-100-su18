@@ -1,5 +1,7 @@
 ![Magritte&apos;s Treachery of Images](/assets/the-treachery-of-images-this-is-not-a-pipe-1948.jpg)
 
+\[1\]
+
 # Semiotics
 
 From nature, we can see that animals have distinctive patterns, textures, and colors which serve both utilitarian and symbolic functions. Vibrantly colored insects may indicate that they are poisonous to predators while bird songs, feathers, and nests communicate sexual fitness to prospective mates. Humans are no different, displaying or obscuring attributes for the same ends. These are semiotic processes. Semiotics is the study of signs, symbols, and their interpretation. \[3\] The study of semiotic processes are just as relevant in art as they are in computer science. There are many contributors to the field of semiotics, including Roland Barthes and Umberto Eco.
