@@ -8,6 +8,14 @@ For this project, you will be designing a ritual and producing a prototype for a
 
 A ritual is an interesting design problem because it is produced for the purpose of disrupting the flow of everyday concerns to bring about new perspective. This is counter to the way we typically think about design – as something that you wouldn't notice if it is done well.
 
+### Designing a ritual
+
+This project asks you to go through a variety of design phases. The first discovery phase asks you to conduct and interview. From there, you will pull out themes, develop a "How might we" question, develop ideas as a group, create and test prototypes, and produce a final fully interactive proposal. Solutions to this project brief can be literal solutions for solving your interviewees problems, or they can be more experimental solutions, that instead highlight and creatively explore one of the themes identified in the interview.
+
+### What not to do
+
+When you go through the research process, it may be tempting to design for a direct problem. For instance, you may hear from your interviewee that they have trouble dealing with time management or remembering to get certain tasks done. Your first instinct would be to solve this issue by designing a todo list or calendar tool. However, a quick Internet search will reveal many todo and calendar tools, and unless you are planning a radical shift in how those particular tools function, it makes sense to approach the problem from a different perspective. Your project must contain elements of novelty. Please avoid calendar and todo list design solutions for this project.
+
 ## Inspiration
 
 [Ritual Design Lab](http://www.ritualdesignlab.org/)
