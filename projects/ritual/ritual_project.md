@@ -14,7 +14,7 @@ This project asks you to go through a variety of design phases. The first discov
 
 ### What not to do
 
-When you go through the research process, it may be tempting to design for a direct problem. For instance, you may hear from your interviewee that they have trouble dealing with time management or remembering to get certain tasks done. Your first instinct would be to solve this issue by designing a todo list or calendar tool. However, a quick Internet search will reveal many todo and calendar tools, and unless you are planning a radical shift in how those particular tools function, it makes sense to approach the problem from a different perspective. Your project must contain elements of novelty. Please avoid calendar and todo list design solutions for this project.
+When you go through the research process, it may be tempting to design for a direct problem. For instance, you may hear from your interviewee that they have trouble dealing with time management or remembering to get certain tasks done. Your first instinct would be to solve this issue by designing a todo list or calendar tool. However, a quick Internet search will reveal many todo and calendar tools, and unless you are planning a radical shift in how those particular tools function, it makes sense to approach the problem from a different perspective. Your project must contain elements of novelty. **Please avoid calendar and todo list design solutions for this project.**
 
 ## Inspiration
 
