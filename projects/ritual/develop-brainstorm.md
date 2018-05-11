@@ -29,7 +29,7 @@ View an [Example Paper brainstorm session](https://paper.dropbox.com/doc/Mikes-b
 4. Each round will focus on a different person's HMW question.
 5. **Facilitator Role:** For each round, the person currently in focus for the discussion will be the facilitator of the discussion, and is responsible for downloading their finished whiteboard and uploading the image to the Studio.
    1. The facilitator is responsible for keeping time.
-   2. Responsible for downloading their own How Might We...? document in markdown format. 
+   2. Responsible for downloading their own How Might We...? document in Word (docx) format. 
 6. Spend about 10-15 minutes per round.
 
 ### Brainstorming
@@ -58,29 +58,22 @@ View an [Example Paper brainstorm session](https://paper.dropbox.com/doc/Mikes-b
    * After 10 minutes: As a group, briefly discuss which ideas you like.
 6. The next facilitator sets a timer for 15 minutes.
 7. Repeat steps 4-6 until all group members have taken their turn. You are now finished the brainstorming session.
-   * Make sure download the Paper doc, in markdown format.
+   * Make sure download the Paper doc, in Word (docx) format.
    * Thank each other for their contributions and end the session.
    
 #### Download and export instructions
 
 1. Once you have finished with the brainstorm, click on the 'more' menu button (three dots) and choose "Download."
-2. Select Markdown format and again choose "Download."
+2. Select Word (docx) format and again choose "Download."
 3. Once the file has been generated, choose "Download" again.
 
-![Paper markdown download menu](/assets/paper-download-menu.png)
+![Paper download menu](/assets/paper-download-menu.png)
 
-![Paper markdown download link](/assets/paper-download-link.png)
+![Paper download link](/assets/paper-download-link.png)
 
 ## Post work to the Studio
 
 Use the file format indicated in each step. You must obtain prior approval to deviate from these upload requirements. Please check that your work has uploaded properly.
 
-1. Follow **download and export** instructions to download the brainstorm document in Markdown format. 
-2. Open the `.md` document with any plaintext editing software such as [TextEdit](https://en.wikipedia.org/wiki/TextEdit) on OSX or [NotePad](https://en.wikipedia.org/wiki/Microsoft_Notepad) on Windows. Copy the content of the `.md` document and paste it into the assignment submission text box.
-
-### Solving technical issues
-
-1. Is your markdown table code broken when you upload it to Studio? Read the Table Gotchas for the [example Paper brainstorm session](https://paper.dropbox.com/doc/Mikes-brainstorm-session-LXePCzDG128wgby37An36).
-2. Are there single hashtags \(\#\)? Those are for heading styles. You can delete them or add a space and some heading text.
-3. Does nothing render at all? Check to see that there are no special emoji characters.
-4. For a full example of how to write in Markdown, [see this page](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+1. Follow **download and export** instructions to download the brainstorm document in Word (docx) format. 
+2. Upload the `.docx` file to studio.
