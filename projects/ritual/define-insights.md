@@ -27,7 +27,7 @@ Now that you've finished conducting the interview, it's time to identify some th
 
 Use the file format indicated in each step. You must obtain prior approval to deviate from these upload requirements. Please check that your work has uploaded properly.
 
-1. Check that you wrote three (3) core insights, each with a set of three sentences.
+1. Check that you identified themes and that you wrote three (3) core insights according to the instructions.
 2. Upload the photograph or scan of your themes and insights in `.jpg` or `.png` format.
 
 ***
