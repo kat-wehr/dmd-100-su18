@@ -2,7 +2,7 @@
 
 # Develop: Iterate prototype
 
-This is the first round of iterative improvement. Read your feedback and consider how to implement the recommendations from course instructors and your peers.
+This is the first round of iterative improvement. Read your feedback and consider how to implement the recommendations from course instructors and your peers. Keep in mind, your work should not be "high fidelity," concentrate on iterating and perfecting the app as if it were a sketch.
 
 ## Instructions:
 
