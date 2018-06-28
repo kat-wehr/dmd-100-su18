@@ -21,5 +21,9 @@ Typically, a final deliverable will be evaluated according to all possible metri
 2. Writing style is appropriate for the audience
 3. Consistent voice, correct grammar and spelling
 
+## Writing assistance via Penn State Writing
 
+If you believe your writing skills need improvement to meet the above guidelines, please consider contacting Penn State Learning's free writing resources. Tutors are available at no cost to students, both on campus and online. 
+
+To explore Penn State's writing resources, visit: https://pennstatelearning.psu.edu/tutoring/writing. 
 
